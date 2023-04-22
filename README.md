@@ -13,11 +13,11 @@
 
 | Project  | Link | Certificate |
 | ------------- | ------------- | ------------- |
-| ARIMA Model  |[ARIMA](https://github.com/KielDeMarco/AI_Portfolio/blob/main/TimeSeries/ARIMA/ARIMA.ipynb) |N/A|
-| ARIMA Model 2  | [ARIMA 2](https://github.com/KielDeMarco/AI_Portfolio/blob/main/TimeSeries/ARIMA/Arima_2.ipynb) | N/A |
-| ARIMA Model 3  | [ARIMA 3](https://github.com/KielDeMarco/AI_Portfolio/blob/main/TimeSeries/ARIMA/ARIMA_3.ipynb)  | N/A |
-| Stationarity Model  | [Stationarity](https://github.com/KielDeMarco/AI_Portfolio/blob/main/TimeSeries/ARIMA/Stationarity.ipynb)  | N/A |
-| PACF and ACP model | [PACF and ACP model](https://github.com/KielDeMarco/AI_Portfolio/blob/main/TimeSeries/ARIMA/PACF_and_ACF.ipynb)  | N/A |
+| ARIMA Model  |[ARIMA](https://github.com/KielDeMarco/AI_Portfolio/blob/main/TimeSeries/ARIMA/ARIMA.ipynb) |
+| ARIMA Model 2  | [ARIMA 2](https://github.com/KielDeMarco/AI_Portfolio/blob/main/TimeSeries/ARIMA/Arima_2.ipynb) | 
+| ARIMA Model 3  | [ARIMA 3](https://github.com/KielDeMarco/AI_Portfolio/blob/main/TimeSeries/ARIMA/ARIMA_3.ipynb)  |
+| Stationarity Model  | [Stationarity](https://github.com/KielDeMarco/AI_Portfolio/blob/main/TimeSeries/ARIMA/Stationarity.ipynb)  | 
+| PACF and ACP model | [PACF and ACP model](https://github.com/KielDeMarco/AI_Portfolio/blob/main/TimeSeries/ARIMA/PACF_and_ACF.ipynb)  | 
 
 ##### Coursera Project Table of Contents:
 
