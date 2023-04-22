@@ -11,11 +11,9 @@
 
 Project Locations:
 
-| Name  |            Location |     Certificate |
-| ------------- | ------------- | ------------- |
-| Google CoLab  | [Google Colab Link](https://colab.research.google.com/)  | 
-| Tensorflow 2  | [Tensorflow Link](https://www.tensorflow.org/install) |
-| Google CoLab  | [Google Colab Link](https://colab.research.google.com/)  | 
-| Tensorflow 2  | [Tensorflow Link](https://www.tensorflow.org/install) |
-| Google CoLab  | [Google Colab Link](https://colab.research.google.com/)  | 
-| Tensorflow 2  | [Tensorflow Link](https://www.tensorflow.org/install) |  |
+| Project  | Location |
+| ------------- | ------------- |
+| Google CoLab  |  |
+| Tensorflow 2  |  |
+
+
