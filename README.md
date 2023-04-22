@@ -11,8 +11,8 @@
 
 ##### Udemy Project Table of Contents:
 
-| Project  | Link | Certificate |
-| ------------- | ------------- | ------------- |
+| Project  | Link | 
+| ------------- | ------------- | 
 | ARIMA Model  |[ARIMA](https://github.com/KielDeMarco/AI_Portfolio/blob/main/TimeSeries/ARIMA/ARIMA.ipynb) |
 | ARIMA Model 2  | [ARIMA 2](https://github.com/KielDeMarco/AI_Portfolio/blob/main/TimeSeries/ARIMA/Arima_2.ipynb) | 
 | ARIMA Model 3  | [ARIMA 3](https://github.com/KielDeMarco/AI_Portfolio/blob/main/TimeSeries/ARIMA/ARIMA_3.ipynb)  |
