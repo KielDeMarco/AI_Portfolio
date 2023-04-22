@@ -9,7 +9,7 @@
 | Google CoLab  | [Google Colab Link](https://colab.research.google.com/)  |
 | Tensorflow 2  | [Tensorflow Link](https://www.tensorflow.org/install) |
 
-Project Locations:
+##### Udemy Project Table of Contents:
 
 | Project  | Link | Certificate |
 | ------------- | ------------- | ------------- |
@@ -18,6 +18,11 @@ Project Locations:
 | ARIMA Model 3  | [ARIMA 3](https://github.com/KielDeMarco/AI_Portfolio/blob/main/TimeSeries/ARIMA/ARIMA_3.ipynb)  | N/A |
 | Stationarity Model  | [Stationarity](https://github.com/KielDeMarco/AI_Portfolio/blob/main/TimeSeries/ARIMA/Stationarity.ipynb)  | N/A |
 | PACF and ACP model | [PACF and ACP model](https://github.com/KielDeMarco/AI_Portfolio/blob/main/TimeSeries/ARIMA/PACF_and_ACF.ipynb)  | N/A |
+
+##### Coursera Project Table of Contents:
+
+| Project  | Link | Certificate |
+| ------------- | ------------- | ------------- |
 | Super Hero Name Generator  |[Super Hero Name Generator](https://github.com/KielDeMarco/AI_Portfolio/blob/main/Coursera/Superhero_Name_Generator_Learner.ipynb)  | |
 | Google CoLab  |  | |
 | Tensorflow 2  |  | |
