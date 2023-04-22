@@ -11,9 +11,9 @@
 
 Project Locations:
 
-| Project  | Location |
-| ------------- | ------------- |
-| Google CoLab  |  |
-| Tensorflow 2  |  |
+| Project  | Location | Certificate |
+| ------------- | ------------- | ------------- |
+| Google CoLab  |  | |
+| Tensorflow 2  |  | |
 
 
