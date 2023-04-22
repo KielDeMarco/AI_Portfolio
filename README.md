@@ -1,4 +1,4 @@
-## A collection of my machine learning work in Udemy & Coursera
+# My Udemy & Coursera MachinLearning Collection
 
 ### Table of Contents
 
