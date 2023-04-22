@@ -14,7 +14,7 @@ Project Locations:
 | Project  | Location | Certificate |
 | ------------- | ------------- | ------------- |
 | Arima Model  |[ARIMA model](https://github.com/KielDeMarco/AI_Portfolio/blob/main/TimeSeries/ARIMA/ARIMA.ipynb) |N/A|
-| Tensorflow 2  |  | |
+| Super Hero Name Generator  |[Super Hero Name Generator](https://github.com/KielDeMarco/AI_Portfolio/blob/main/Coursera/Superhero_Name_Generator_Learner.ipynb)  | |
 | Google CoLab  |  | |
 | Tensorflow 2  |  | |
 | Google CoLab  |  | |
