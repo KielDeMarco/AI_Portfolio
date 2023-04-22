@@ -13,7 +13,7 @@ Project Locations:
 
 | Project  | Location | Certificate |
 | ------------- | ------------- | ------------- |
-| Google CoLab  |  | |
+| Arima Model  |[ARIMA model](https://github.com/KielDeMarco/AI_Portfolio/blob/main/TimeSeries/ARIMA/ARIMA.ipynb) |N/A|
 | Tensorflow 2  |  | |
 | Google CoLab  |  | |
 | Tensorflow 2  |  | |
