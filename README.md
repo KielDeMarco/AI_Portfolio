@@ -1,4 +1,4 @@
-# My Udemy & Coursera MachinLearning Collection
+# My Udemy & Coursera AI Portfolio
 
 ### Table of Contents
 
