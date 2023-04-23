@@ -23,9 +23,9 @@
 
 | Project  | Link | Certificate |
 | ------------- | ------------- | ------------- |
-| Super Hero Name Generator  |[Super Hero Name Generator](https://github.com/KielDeMarco/AI_Portfolio/blob/main/Coursera/Superhero_Name_Generator_Learner.ipynb)  | |
+| Super Hero Name Generator  |[Super Hero Name Generator](https://github.com/KielDeMarco/AI_Portfolio/blob/main/Coursera/Superhero_Name_Generator_Learner.ipynb)  |[Certificate](https://www.coursera.org/account/accomplishments/certificate/KBJPR96BZQJ2) |
 | Build a GANs with pyTorch  |[Build a GANs](https://github.com/KielDeMarco/AI_Portfolio/blob/main/Coursera/Build_a_Generative_Adversarial_Network_.ipynb)  |[Certificate](https://www.coursera.org/account/accomplishments/certificate/FV24N5JVR2TZ) |
-| Tensorflow 2  |  | |
+| Tweet Sentiment Analysis  |[Tweet Emotion Recognition](https://github.com/KielDeMarco/AI_Portfolio/blob/main/Coursera/Tweet_Emotion_Recognition_Learner.ipynb)  |[Certificate](https://www.coursera.org/account/accomplishments/certificate/GKW3FD5PH5VV) |
 | Google CoLab  |  | |
 | Tensorflow 2  |  | |
 
