@@ -8,6 +8,7 @@
 | ------------- | ------------- |
 | Google CoLab  | [Google Colab Link](https://colab.research.google.com/)  |
 | Tensorflow 2  | [Tensorflow Link](https://www.tensorflow.org/install) |
+| PyTorch  | [PyTorch Link](https://pytorch.org/) |
 
 ##### Udemy Project Table of Contents:
 
