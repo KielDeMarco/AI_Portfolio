@@ -10,18 +10,19 @@
 | Google CoLab  | [Google Colab Link](https://colab.research.google.com/)  |
 | Tensorflow 2 :orange_circle: | [Tensorflow Link](https://www.tensorflow.org/install) |
 | PyTorch :fire: | [PyTorch Link](https://pytorch.org/) |
-| Facebook Prophet :heavy_dollar_sign: | [Prophet Link](https://facebook.github.io/prophet/) |
+| Facebook Prophet :moneybag: | [Prophet Link](https://facebook.github.io/prophet/) |
+| Statsmodels :chart_with_upwards_trend: | [Statsmodels Link](https://www.statsmodels.org/stable/index.html) |
 
 ##### Udemy Project Table of Contents:
 
 | Project  | Link | 
 | ------------- | ------------- | 
-| ARIMA Model  |[ARIMA](https://github.com/KielDeMarco/AI_Portfolio/blob/main/TimeSeries/ARIMA/ARIMA.ipynb) |
-| ARIMA Model 2  | [ARIMA 2](https://github.com/KielDeMarco/AI_Portfolio/blob/main/TimeSeries/ARIMA/Arima_2.ipynb) | 
-| ARIMA Model 3  | [ARIMA 3](https://github.com/KielDeMarco/AI_Portfolio/blob/main/TimeSeries/ARIMA/ARIMA_3.ipynb)  |
-| Stationarity Model  | [Stationarity](https://github.com/KielDeMarco/AI_Portfolio/blob/main/TimeSeries/ARIMA/Stationarity.ipynb)  | 
-| PACF and ACP model | [PACF and ACP model](https://github.com/KielDeMarco/AI_Portfolio/blob/main/TimeSeries/ARIMA/PACF_and_ACF.ipynb)  | 
-| Prophet Rossman :heavy_dollar_sign: | [Prophet Rossman](https://github.com/KielDeMarco/AI_Portfolio/blob/main/TimeSeries/Prophet_Rossman.ipynb)  | 
+| ARIMA Model :chart_with_upwards_trend: |[ARIMA](https://github.com/KielDeMarco/AI_Portfolio/blob/main/TimeSeries/ARIMA/ARIMA.ipynb) |
+| ARIMA Model 2 :chart_with_upwards_trend: | [ARIMA 2](https://github.com/KielDeMarco/AI_Portfolio/blob/main/TimeSeries/ARIMA/Arima_2.ipynb) | 
+| ARIMA Model 3 :chart_with_upwards_trend: | [ARIMA 3](https://github.com/KielDeMarco/AI_Portfolio/blob/main/TimeSeries/ARIMA/ARIMA_3.ipynb)  |
+| Stationarity Model :chart_with_upwards_trend: | [Stationarity](https://github.com/KielDeMarco/AI_Portfolio/blob/main/TimeSeries/ARIMA/Stationarity.ipynb)  | 
+| PACF and ACP model :chart_with_upwards_trend: | [PACF and ACP model](https://github.com/KielDeMarco/AI_Portfolio/blob/main/TimeSeries/ARIMA/PACF_and_ACF.ipynb)  | 
+| Prophet Rossman :moneybag: | [Prophet Rossman](https://github.com/KielDeMarco/AI_Portfolio/blob/main/TimeSeries/Prophet_Rossman.ipynb)  | 
 
 These projects are from The Lazy Programmers Udemy course: "Time Series Analysis, Forecasting, and Machine Learning". The Projects are focused on Facebook Prophet and ARIMA modeling.
 
