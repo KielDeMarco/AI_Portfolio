@@ -1,7 +1,7 @@
 # My Udemy & Coursera AI Portfolio
 A portfolio of my work on Udemy and Coursera.
 
-### Table of Contents
+### Table of Contents:
 
 #### Technologies used in the projects:
 
