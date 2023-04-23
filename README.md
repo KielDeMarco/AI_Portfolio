@@ -26,7 +26,7 @@
 | Super Hero Name Generator  |[Super Hero Name Generator](https://github.com/KielDeMarco/AI_Portfolio/blob/main/Coursera/Superhero_Name_Generator_Learner.ipynb)  |[Certificate](https://www.coursera.org/account/accomplishments/certificate/KBJPR96BZQJ2) |
 | Build a GANs with pyTorch  |[Build a GANs](https://github.com/KielDeMarco/AI_Portfolio/blob/main/Coursera/Build_a_Generative_Adversarial_Network_.ipynb)  |[Certificate](https://www.coursera.org/account/accomplishments/certificate/FV24N5JVR2TZ) |
 | Tweet Sentiment Analysis  |[Tweet Emotion Recognition](https://github.com/KielDeMarco/AI_Portfolio/blob/main/Coursera/Tweet_Emotion_Recognition_Learner.ipynb)  |[Certificate](https://www.coursera.org/account/accomplishments/certificate/GKW3FD5PH5VV) |
-| Google CoLab  |  | |
-| Tensorflow 2  |  | |
+|  Getting Started with Tensorflow 2 Imperial College of London | [Capstone Project](https://github.com/KielDeMarco/AI_Portfolio/blob/main/Coursera/Capstone_Project.ipynb) | [Certificate](https://www.coursera.org/account/accomplishments/certificate/AUDUWHK9EA79) |
+| Deep Learning.AI Tensorflow Developer  |[imdb sentiment](https://github.com/KielDeMarco/AI_Portfolio/blob/main/Coursera/imdb_sentiment.ipynb) [Sunspot Time Series](https://github.com/KielDeMarco/AI_Portfolio/blob/main/Coursera/SunSpot_TIme_Series.ipynb)  |[Certificate](https://www.coursera.org/account/accomplishments/certificate/AUDUWHK9EA79) [Generating Shakespeare](https://github.com/KielDeMarco/AI_Portfolio/blob/main/Coursera/%20Generating_Shakespeare.ipynb) |
 
 
