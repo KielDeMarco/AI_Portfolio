@@ -12,14 +12,15 @@
 | PyTorch :fire: | [PyTorch Link](https://pytorch.org/) |
 | Facebook Prophet :moneybag: | [Prophet Link](https://facebook.github.io/prophet/) |
 | Statsmodels :chart_with_upwards_trend: | [Statsmodels Link](https://www.statsmodels.org/stable/index.html) |
+|Pmdarima :chart_with_downwards_trend: |[Pmdarima Link](https://pypi.org/project/pmdarima/) |
 
 ##### Udemy Project Table of Contents:
 
 | Project  | Link | 
 | ------------- | ------------- | 
 | ARIMA Model :chart_with_upwards_trend: |[ARIMA](https://github.com/KielDeMarco/AI_Portfolio/blob/main/TimeSeries/ARIMA/ARIMA.ipynb) |
-| ARIMA Model 2 :chart_with_upwards_trend: | [ARIMA 2](https://github.com/KielDeMarco/AI_Portfolio/blob/main/TimeSeries/ARIMA/Arima_2.ipynb) | 
-| ARIMA Model 3 :chart_with_upwards_trend: | [ARIMA 3](https://github.com/KielDeMarco/AI_Portfolio/blob/main/TimeSeries/ARIMA/ARIMA_3.ipynb)  |
+| ARIMA Model 2 :chart_with_downwards_trend: | [ARIMA 2](https://github.com/KielDeMarco/AI_Portfolio/blob/main/TimeSeries/ARIMA/Arima_2.ipynb) | 
+| ARIMA Model 3 :chart_with_downwards_trend: | [ARIMA 3](https://github.com/KielDeMarco/AI_Portfolio/blob/main/TimeSeries/ARIMA/ARIMA_3.ipynb)  |
 | Stationarity Model :chart_with_upwards_trend: | [Stationarity](https://github.com/KielDeMarco/AI_Portfolio/blob/main/TimeSeries/ARIMA/Stationarity.ipynb)  | 
 | PACF and ACP model :chart_with_upwards_trend: | [PACF and ACP model](https://github.com/KielDeMarco/AI_Portfolio/blob/main/TimeSeries/ARIMA/PACF_and_ACF.ipynb)  | 
 | Prophet Rossman :moneybag: | [Prophet Rossman](https://github.com/KielDeMarco/AI_Portfolio/blob/main/TimeSeries/Prophet_Rossman.ipynb)  | 
