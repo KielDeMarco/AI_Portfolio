@@ -1,4 +1,5 @@
 # My Udemy & Coursera AI Portfolio
+A portfolio of my work on Udemy and Coursera.
 
 ### Table of Contents
 
