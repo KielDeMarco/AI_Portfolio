@@ -7,7 +7,7 @@
 | Technology  | Download Link |
 | ------------- | ------------- |
 | Python :snake: | [Python Link](https://www.python.org/) |
-| Google CoLab  | [Google Colab Link](https://colab.research.google.com/)  |
+| Google CoLab :gemini:  | [Google Colab Link](https://colab.research.google.com/)  |
 | Tensorflow 2 :orange_circle: | [Tensorflow Link](https://www.tensorflow.org/install) |
 | PyTorch :fire: | [PyTorch Link](https://pytorch.org/) |
 | Facebook Prophet :moneybag: | [Prophet Link](https://facebook.github.io/prophet/) |
