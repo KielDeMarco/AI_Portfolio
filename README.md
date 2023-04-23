@@ -22,6 +22,8 @@
 | PACF and ACP model | [PACF and ACP model](https://github.com/KielDeMarco/AI_Portfolio/blob/main/TimeSeries/ARIMA/PACF_and_ACF.ipynb)  | 
 | Prophet Rossman | [Prophet Rossman](https://github.com/KielDeMarco/AI_Portfolio/blob/main/TimeSeries/Prophet_Rossman.ipynb)  | 
 
+These projects are from The Lazy Programmers Udemy course: "Time Series Analysis, Forecasting, and Machine Learning". The Projects are focused on Facebook Prophet and ARIMA modeling.
+
 ##### Coursera Project Table of Contents:
 
 | Project  | Link | Certificate |
