@@ -9,6 +9,7 @@
 | Google CoLab  | [Google Colab Link](https://colab.research.google.com/)  |
 | Tensorflow 2  | [Tensorflow Link](https://www.tensorflow.org/install) |
 | PyTorch  | [PyTorch Link](https://pytorch.org/) |
+| Facebook Prophet | [Prophet Link](https://facebook.github.io/prophet/) |
 
 ##### Udemy Project Table of Contents:
 
