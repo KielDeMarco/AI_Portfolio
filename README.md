@@ -24,7 +24,7 @@
 | Project  | Link | Certificate |
 | ------------- | ------------- | ------------- |
 | Super Hero Name Generator  |[Super Hero Name Generator](https://github.com/KielDeMarco/AI_Portfolio/blob/main/Coursera/Superhero_Name_Generator_Learner.ipynb)  | |
-| Google CoLab  |  | |
+| Build a GANs with pyTorch  |[Build_a_GANs](https://github.com/KielDeMarco/AI_Portfolio/blob/main/Coursera/Build_a_Generative_Adversarial_Network_.ipynb)  |[Certificate](https://www.coursera.org/account/accomplishments/certificate/FV24N5JVR2TZ) |
 | Tensorflow 2  |  | |
 | Google CoLab  |  | |
 | Tensorflow 2  |  | |
